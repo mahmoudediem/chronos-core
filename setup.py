@@ -5,6 +5,6 @@ setup(
     version="0.1.0",
     packages=find_packages(),
     install_requires=[
-        "git+https://github.com/mahmoudediem/shareddep.git@v3.0.0#egg=shareddep"
+        "shareddep"   # Only the package name goes here
     ],
 )
