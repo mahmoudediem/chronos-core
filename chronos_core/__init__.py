@@ -1,0 +1,1 @@
+from .core_app import core_run
